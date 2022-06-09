@@ -10,3 +10,5 @@ The frog locations are found using a coarse spatial resolution. Space tech and A
 
 ## Output
 The output for this challenge is a Species Distribution Model (SDM) for the Litoria fallax frogs in one specific focus area. SDMs are widely used ecological tools to determine the quantity and distribution of a species, which enable decisions for environmental regulation and conservation.
+
+Jupyter Notebook of my work can be viewed [here](https://github.com/HaleyEgan/Local-Frog-Discovery-Tool/blob/main/Frog_SpeciesDistributionModel_RandomForest.ipynb).
